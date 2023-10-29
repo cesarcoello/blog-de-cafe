@@ -52,7 +52,6 @@ img{
 }
 
 /* Utilidades */
-
 /* Para eliminar margen y padding que el navegador genera */
 .no-margin{
     margin: 0;
@@ -62,4 +61,18 @@ img{
 }
 .centrar-texto{
     text-align: center;
+}
+
+/* Headear */
+.header{
+    background-image: url(../img/banner.jpg);
+    height: 60rem;
+    background-size: cover; /* para abarcar todo el espacio disponible */
+    background-repeat: no-repeat; /* para que la imagen no se repita */
+    background-position: center center; /* para priorizar que se debe ver, fluye hacia el centro */
+}
+.header__texto{
+    text-align: center;
+    color: var(--blanco);
+    margin-top: 5rem;
 }
