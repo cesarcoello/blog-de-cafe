@@ -1,0 +1,65 @@
+:root {
+    --fuente-heading: 'PT Sans', sans-serif;
+    --fuente-parrafos: 'Open Sans', sans-serif;
+
+    --primario: #784D3c;
+    --blanco: #FFF;
+    --NEGRO: #000;
+}
+
+html{
+    box-sizing: border-box; /* Para hacer que el margen, padding no afecte el ancho de los elementos */
+    font-size: 62.5%; /* 1rem = 10px */ 
+}
+
+*, *:before, *:after{
+    box-sizing: inherit;  /* inherit hereda la propiedad del elemento padre pero no se hereda al siguiente*/
+}
+
+body{
+    font-family: var(--fuente-parrafos);
+    font-size: 1.6rem;
+    line-height: 2;
+}
+
+/* Globales */
+.contenedor{
+    max-width: 120rem; /* si la pantalla va mas alla de eso, el contenedor hasta ahi llega */
+    width: 90%; /* abarca solo el 90% del espacio disponible */
+    margin: 0 auto; /* centrar el contenido */
+}
+
+a{
+    text-decoration: none;
+}
+h1, h2, h3, h4{
+    font-family: var(--fuente-heading);
+}
+h1{
+    font-size: 4.8rem;
+}
+h2{
+    font-size: 4rem;
+}
+h3{
+    font-size: 3.2rem;
+}
+h4{
+    font-size: 2.8rem;
+}
+img{
+    max-width: 100%;
+}
+
+/* Utilidades */
+
+/* Para eliminar margen y padding que el navegador genera */
+.no-margin{
+    margin: 0;
+}
+.no-padding{
+    padding: 0;
+}
+.centrar-texto{
+    text-align: center;
+}
