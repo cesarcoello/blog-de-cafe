@@ -275,6 +275,7 @@ img{
 }
 .campo__field{
     flex: 1;
+    overflow: auto;
 }
 .campo__field--textarea{
     height: 20rem;
