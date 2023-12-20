@@ -24,7 +24,7 @@ Este es un proyecto de blog de café simple y elegante creado con HTML y CSS. El
 
 ## Instalación y Uso
 
-1. Clona este repositorio: `git clone https://github.com/tu-usuario/blog-cafe.git`
+1. Clona este repositorio: `https://github.com/yulyus-qaysar/blog-de-cafe.git`
 2. Abre el archivo `index.html` en tu navegador.
 
 ## Rendimiento (Auditoría con Lighthouse)
