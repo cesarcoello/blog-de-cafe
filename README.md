@@ -2,6 +2,10 @@
 
 Este es un proyecto de blog de café simple y elegante creado con HTML y CSS. El objetivo principal de este proyecto es proporcionar un sitio web atractivo y funcional para compartir información y noticias relacionadas con el café.
 
+## Visita el sitio (DEMO)
+
+¡Explora el blog de café en [BlogDeCafé](https://blogdecafe-qaysar.netlify.app/) para interactuar con el demo!
+
 ## Características
 
 1. **Diseño Responsivo**: El blog está diseñado para adaptarse a diferentes tamaños de pantalla, lo que garantiza una experiencia de usuario óptima en dispositivos móviles y de escritorio.
