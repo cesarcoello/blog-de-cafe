@@ -4,7 +4,7 @@ Este es un proyecto de blog de café simple y elegante creado con HTML y CSS. El
 
 ## Visita el sitio (DEMO)
 
-¡Explora el blog de café en [BlogDeCafé](hhttps://blogdecafe-cc.netlify.app) para interactuar con el demo!
+¡Explora el blog de café en [BlogDeCafé](https://blogdecafe-cc.netlify.app) para interactuar con el demo!
 
 ## Características
 
